@@ -3,4 +3,4 @@ Galaxy backup utility
 
 Usage:
 
-GalaxyBackup.exe <Galaxy Name> <Path to Save backup.cab>
+GalaxyBackup.exe galaxy_name c:\path\to\backup.cab
